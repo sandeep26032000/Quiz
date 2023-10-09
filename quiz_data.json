@@ -1,0 +1,30 @@
+[
+  { "question":"What is the Capital of India?",
+    "choices":["Mumbai","Chennai","Pune","New Delhi"],
+    "correct_ans":"4"
+  },
+  { "question":"Who was India's first Prime Minister?",
+    "choices":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+    "correct_ans":"1"
+  },
+  { "question": "Which gas do plants absorb during photosynthesis?",
+    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct_ans": "2"
+  },
+  { "question": "What is the largest planet in our solar system?",
+    "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct_ans": "3"
+  },
+  { "question": "What is the Indian National Bird?",
+    "choices": ["Owl", "Crow", "Peacock", "Pegion"],
+    "correct_ans": "3"
+  },
+  { "question": "Is 2032 a leap year?",
+    "choices": ["yes", "No"],
+    "correct_ans": "1"
+  },
+  { "question": "Which musical instrument/s Sandeep likes to play?",
+  "choices": ["Dholak", "Flute","Harmonium","All of the above"],
+  "correct_ans": "4"
+}
+] 
